@@ -10,12 +10,9 @@ I'm a fourth year Computer Science student (specializing in Entrepreneurship and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-Malhotra&layout=compact&theme=radical) <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yatin-Malhotra&theme=radical) <br>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Yatin-Malhotra&theme=radical)
-
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/malhotra-yatin/)
-[![Website](https://img.shields.io/badge/-Website-green)](https://yatinmalhotra.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/malhotra-yatin/)
+[![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge)](https://yatinmalhotra.netlify.app)
 
 <!--
 **Yatin-Malhotra/Yatin-Malhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

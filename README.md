@@ -7,7 +7,11 @@ I'm a fourth year Computer Science student (specializing in Entrepreneurship and
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yatin-Malhotra&show_icons=true&theme=radical) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-Malhotra&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-Malhotra&layout=compact&theme=radical) <br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yatin-Malhotra&theme=radical) <br>
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Yatin-Malhotra&theme=radical)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/malhotra-yatin/)

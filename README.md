@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-## About Me
 I'm a fourth year Computer Science student (specializing in Entrepreneurship and Software Engineering) at the University of Toronto.
-
-## Skills
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yatin-Malhotra&show_icons=true&theme=radical) <br>

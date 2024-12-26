@@ -1,6 +1,11 @@
 ## Hi there 👋
 I'm a fourth year Computer Science student (specializing in Entrepreneurship and Software Engineering) at the University of Toronto.
 
+## ⏳ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yatin-Malhotra&show_icons=true&theme=radical) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-Malhotra&layout=compact&theme=radical) <br>

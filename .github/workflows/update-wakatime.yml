@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - uses: athul/waka-readme@v2
+      - name: WakaTime Readme Stats
+        uses: denvercoder1/github-readme-wakatime@v1.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       - name: Commit and Push

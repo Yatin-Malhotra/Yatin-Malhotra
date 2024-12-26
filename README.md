@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm a fourth year Computer Science student (specializing in Entrepreneurship and Software Engineering) at the University of Toronto.
 
-## ⏳ Weekly Development Breakdown
+## Development Breakdown
+![Metrics](/github-metrics.svg) <br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

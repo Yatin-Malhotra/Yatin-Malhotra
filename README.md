@@ -27,11 +27,8 @@ I specialize in building scalable web applications and distributed systems. Curr
 ---
 
 ### Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yatin-Malhotra&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-Malhotra&layout=compact&theme=radical" height="180" alt="Top Languages" />
-</div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yatin-Malhotra&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yatin-Malhotra&theme=radical)
 
 ---
 

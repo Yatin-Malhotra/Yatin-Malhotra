@@ -1,32 +1,40 @@
-## Hi there 👋
-I'm a fourth year Computer Science student (specializing in Entrepreneurship and Software Engineering) at the University of Toronto.
+# Hi, I'm Yatin Malhotra.
+### Software Engineer | UofT CS '26
+I specialize in building scalable web applications and distributed systems. Currently seeking New Grad 2026 roles in **Full Stack** or **Backend Engineering**.
 
-## Development Breakdown
-![Metrics](/github-metrics.svg) <br>
+---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### Tech Stack
+* **Languages:** Python, JavaScript/TypeScript, Java, C, SQL
+* **Frontend:** React, Next.js, Tailwind CSS, HTML5
+* **Backend:** Node.js, Express, PostgreSQL, Prisma, REST APIs
+* **Tools:** Git, Docker, Linux, AWS, Azure
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yatin-Malhotra&show_icons=true&theme=radical) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-Malhotra&layout=compact&theme=radical) <br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yatin-Malhotra&theme=radical) <br>
+---
 
-## Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/malhotra-yatin/)
-[![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge)](https://yatinmalhotra.netlify.app)
+### Featured Projects
 
-<!--
-**Yatin-Malhotra/Yatin-Malhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**1. [CSSU Rewards](https://github.com/Yatin-Malhotra/CSSU-Rewards)**
+> *A high-concurrency ledger system featuring hierarchical RBAC, real-time analytics, and automated transaction auditing.*
+* **The Challenge:** Building a secure, multi-tenant reward economy where point inflation must be monitored and data integrity is critical across four distinct user permission levels.
+* **The Solution:** Engineered a Node.js/Express backend utilizing Prisma ORM for complex data aggregations and JWT-based authentication secured with httpOnly cookies to prevent XSS/CSRF attacks. Implemented a custom analytics engine to track "Points-per-Dollar" ratios and cashier processing efficiency. 
 
-Here are some ideas to get you started:
+**2. [LumosDB](https://github.com/Yatin-Malhotra/lumosdb)**
+> *A high-performance, distributed in-memory key-value store compatible with the Redis serialization protocol (RESP).*
+* **The Challenge:** Designing a fault-tolerant database capable of handling concurrent client connections while maintaining strong data consistency and durability across system restarts.
+* **The Solution:** Engineered a multi-threaded TCP server in Go, implementing a custom RESP parser for protocol compliance. Architected a thread-safe storage engine using sync.RWMutex to prevent race conditions and designed an Append-Only File (AOF) persistence layer to ensure data durability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yatin-Malhotra&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin-Malhotra&layout=compact&theme=radical" height="180" alt="Top Languages" />
+</div>
+
+
+---
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malhotra-yatin/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yatinmalhotra.netlify.app)

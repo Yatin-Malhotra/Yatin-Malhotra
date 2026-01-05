@@ -1,6 +1,6 @@
 # Hi, I'm Yatin Malhotra.
 ### Software Engineer | UofT CS '26
-I specialize in building scalable web applications and distributed systems. Currently seeking New Grad 2026 roles in **Full Stack** or **Backend Engineering**.
+I specialize in building scalable web applications and distributed systems. Currently seeking New Grad 2026 roles in **Full Stack**, **Backend Engineering** or **Frontend Engineering**.
 
 ---
 
